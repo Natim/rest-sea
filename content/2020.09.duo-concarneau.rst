@@ -168,16 +168,18 @@ remettre ce magnifique bateau en état de courrir à nouveau.
 
 .. image:: images/kasspatou.jpg
   :width: 420
+  :alt: Logo Kasspatou — Nicolas Meyer
   :target: https://nicolasmeyer.org/kasspatou-racing-solutions/
 
 .. image:: images/blewstoub.png
   :width: 400
+  :alt: Logo Blew Stoub — Vincent Le Roux
   :target: https://www.facebook.com/pages/category/Science--Technology---Engineering/Blew-Stoub-147329505937546/
 
 .. image:: images/teem.png
   :width: 420
+  :alt: Logo Teem Électronique
   :target: https://www.teem-electronique.fr/
-
 
 
 La suite ?

@@ -1,0 +1,58 @@
+{% extends 'index.html' %}
+{% block title %}{{ page.title|striptags }} // {{ super() }}{% endblock title %}
+
+{% block head_js %}
+<script src='https://api.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+{% endblock %}
+
+{% block content %}
+<div class="pure-g-r" id="layout">
+    {% include 'sidebar.html' %}
+    <div class="pure-u-1">
+        <div class="content">
+            <h1 class="content-subhead">{{ page.title }}</h1>
+            <p>{{ page.content }}</p>
+            {% if page.slug == "venir" %}
+            <div id="map" style="height: 600px; max-height: 60vh;"></div>
+
+            <script type="text/javascript">
+window.onload = function () {
+	try {
+		mapboxgl.accessToken = 'pk.eyJ1IjoiY2hlZmNsdWIiLCJhIjoiY2pmeG9rajN3MXozNTJ6bXdvNmQxbXV2eSJ9.UrOWGwU7uutilVWWx-650Q';
+		var map = new mapboxgl.Map({
+			container: 'map',
+			style: 'mapbox://styles/mapbox/streets-v10',
+            center: new mapboxgl.LngLat(4.6, 45.35),
+			zoom: 8.2,
+			scrollZoom: true
+		});
+		// Disable tap handler, if present.
+		if (map.touchZoom) map.touchZoom.disable();
+		if (map.doubleClickZoom) map.doubleClickZoom.disable();
+		if (map.scrollWheelZoom) map.scrollWheelZoom.disable();
+		if (map.keyboard) map.keyboard.disable();
+		if (map.tap) map.tap.disable();
+		if (map.dragging) map.dragging.disable();
+
+		if (map.dragPan && 'ontouchstart' in window) map.dragPan.disable();
+		if (map.dragRotate) map.dragRotate.disable();
+		if (map.touchZoomRotate) map.touchZoomRotate.disable();
+
+		new mapboxgl.Marker()
+		  .setLngLat([4.5453, 45.1223])
+		  .setPopup(new mapboxgl.Popup({offset: 30})
+		  .setHTML('<h3>Mariage Mathilde & Robin</h3><p style="color: black">Domaine du Milagro<br/>Lalouvesc</p>'))
+		  .addTo(map);
+
+	} catch (e) {
+		document.getElementById('map').classList.add('callbackNoWebGL');
+	}
+}
+</script>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{% include 'footer.html' %}
+{% endblock %}

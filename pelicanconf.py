@@ -13,7 +13,7 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = u'fr'
 
 # Social widget
-SOCIAL = (('Github', 'https://github.com/Natim/rest@sea'),)
+SOCIAL = (('Github', 'https://github.com/Natim/rest-sea'),)
 
 DEFAULT_PAGINATION = False
 
@@ -24,12 +24,12 @@ COVER_IMG_URL = '/theme/sidebar.jpg'
 SOCIAL = (
     ('envelope', 'mailto:rest_at_sea@trunat.fr'),
     ('rss', SITEURL + '/feeds/all.atom.xml'),
-    ('github', 'https://github.com/Natim/rest@sea'),
+    ('github', 'https://github.com/Natim/rest-sea'),
 )
 
 MENUITEMS = (
     ('Nouvelles', 'archives.html'),
-    (u'Bateau', 'pages/bateay.html'),
+    (u'Bateau', 'pages/le-bateau-rest-at-sea-mini-433.html'),
     (u'Équipage', 'pages/equipage.html'),
     (u'Contactez-nous', 'pages/a-propos.html'),
 )

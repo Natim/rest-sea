@@ -55,13 +55,13 @@ Un proto
 Le mini 433 est un prototype, dessiné par l'architecte Samuel Manuard
 en 2003. Il n'en existe qu'un unique exemplaire, bien qu'il est 4 frères et sœurs :
 
-- #431 Tip Top Too skippé par [Josep COSTA FÄH](https://www.facebook.com/josep.costafah)
-- #432 Diabol'o skippé par [Tim DARNI](https://www.facebook.com/TimDarniNavigateur/)
-- #491 Marcel for Ever skippé par [Yannick LEMONNIER](https://www.facebook.com/IrishMiniTransatClass/)
-- #509 BANZAÏ skippé par [Tamás KOVACS](https://www.instagram.com/banzai509/)
-- #510 Adia Mobil Too skippé par [Andraz MIHELIN](https://www.facebook.com/andraz.mihelin)
-- #567 SPH skippé par [Jérome KOCH](https://www.classemini.com/?mode=skippers&id_skipper=313)
-- #595 (Sur de nouveaux plans) BE COMPOSITES skippé par [Koen WILLAERT](https://www.classemini.com/?mode=skippers&id_skipper=967)
+- #431 Tip Top Too skippé par `Josep COSTA FÄH <https://www.facebook.com/josep.costafah>`_
+- #432 Diabol'o skippé par `Tim DARNI <https://www.facebook.com/TimDarniNavigateur/>`_
+- #491 Marcel for Ever skippé par `Yannick LEMONNIER <https://www.facebook.com/IrishMiniTransatClass/>`_
+- #509 BANZAÏ skippé par `Tamás KOVACS <https://www.instagram.com/banzai509/>`_
+- #510 Adia Mobil Too skippé par `Andraz MIHELIN <https://www.facebook.com/andraz.mihelin>`_
+- #567 SPH skippé par `Jérome KOCH <https://www.classemini.com/?mode=skippers&id_skipper=313>`_
+- #595 (Sur de nouveaux plans) BE COMPOSITES skippé par `Koen WILLAERT <https://www.classemini.com/?mode=skippers&id_skipper=967>`_
 
 Un podium
 ---------

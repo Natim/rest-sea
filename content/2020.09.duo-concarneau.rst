@@ -146,7 +146,7 @@ dehors et les différentes drisses, écoutes, bastaques, haubans.
 Remerciements
 =============
 
-.. image:: images/bateau-entrainement.jpg
+.. image:: images/bateau-entrainement-ponton.jpg
   :alt: REST @ SEA — Mini 433 au ponton à Lorient vu de l'arrière
         après un aller-retour musclé à Belle-Ile
   :align: center

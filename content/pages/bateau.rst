@@ -45,6 +45,11 @@ Sur ce petit bateau très puissant. Assis sur l'eau, accroché à la vie.
 Un Mini
 -------
 
+.. image:: ../images/bateau-entrainement.jpg
+  :alt: REST @ SEA — Mini 433 au ponton à Lorient vu de l'arrière
+        après un aller-retour musclé à Belle-Ile
+  :align: center
+
 Les minis sont les plus petits bateaux de course au large. 6,50m de
 long, 3m de large, 12m de haut, 2m de profondeur (pour les protos).
 
@@ -65,6 +70,10 @@ en 2003. Il n'en existe qu'un unique exemplaire, bien qu'il ait 7 frères et sœ
 
 Un podium
 ---------
+
+.. image:: ../images/bateau-victoire.jpg
+  :alt: Victoire de Corentin Douguet avec le Mini 433 — E. Leclerc-Bouygues Telecom
+  :align: center
 
 Ce bateau n'a réalisé qu'une transat en 2005, mais c'est lors de cette
 dernière qu'il a été mené à la victoire par Corentin Douguet.

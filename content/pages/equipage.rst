@@ -9,6 +9,10 @@ L'équipage
 Rémy Hubscher
 =============
 
+.. image:: ../images/remy-et-severine.jpg
+  :alt: Rémy et Séverine sur le mini à Sauzon
+  :align: center
+
 Rémy commence la voile croisière en arrivant en Bretagne en 2015. Avec
 l'école de voile Les Glénans d'une part et via VogAvecMoi d'autre
 part.
@@ -23,6 +27,10 @@ bateau est là et après de nombreuses heures de bricolage, il s'apprête
 
 Séverine Beyer
 ==============
+
+.. image:: ../images/severine-tete-de-mat.jpg
+  :alt: Séverine en tête de mat.
+  :align: center
 
 Séverine commence la voile en même temps que Rémy, un peu pour voir au
 début, ça devient rapidement une réele passion, navigatrice dans

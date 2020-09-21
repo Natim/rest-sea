@@ -22,7 +22,7 @@ Sur la mer, élément tumultueux, à l'image du monde, j'avance
 cahin-caha au gré du vent, bercé ou chahuté par les vagues.
 
 Mon objectif est d'avancer, choisissant un cap, réglant les voiles
-pour être le plus rapide, en sécurité, réglant en fonction du vent.
+pour être rapide, en sécurité, réglant en fonction du vent.
 
 Une fois réglé, il est temps de se reposer avant la prochaine
 manœuvre.
@@ -32,7 +32,7 @@ manœuvre et repos. Le tic-tac incessant du monde résumé dans le
 mouvement d'un bateau et l'action puis le repos de son équipage.
 
 REST @ SEA est également un clin d'œil à mon travail d'informaticien,
-hacker du web, mettant mes compétences aux services d'entreprises
+artisan du web, mettant mes compétences aux services d'entreprises
 innovantes souhaitant changer les choses et collaborant autour du
 logiciel libre, notamment en développant et en déployant des API REST.
 
@@ -46,14 +46,14 @@ Un Mini
 -------
 
 Les minis sont les plus petits bateaux de course au large. 6,50m de
-long, 3m de large, 12m de haut, 2m de profondeur.
+long, 3m de large, 12m de haut, 2m de profondeur (pour les protos).
 
 
 Un proto
 --------
 
 Le mini 433 est un prototype, dessiné par l'architecte Samuel Manuard
-en 2003. Il n'en existe qu'un unique exemplaire, bien qu'il est 4 frères et sœurs :
+en 2003. Il n'en existe qu'un unique exemplaire, bien qu'il ait 7 frères et sœurs :
 
 - #431 Tip Top Too skippé par `Josep COSTA FÄH <https://www.facebook.com/josep.costafah>`_
 - #432 Diabol'o skippé par `Tim DARNI <https://www.facebook.com/TimDarniNavigateur/>`_
@@ -79,7 +79,7 @@ Il y a donc eu un gros travail pour le remettre en état de courrir.
 
 - Parc à batterie + circuit de charge par panneaux solaires
 - Électronique
-- Changement de la port d'accès
+- Changement de la porte d'accès
 - Ponçage et vernissage du mât
 - Changement des bastaques et des haubans textiles
 - Changement des fillières par du textile

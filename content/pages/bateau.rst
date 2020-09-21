@@ -74,6 +74,7 @@ Un podium
 .. image:: ../images/bateau-victoire.jpg
   :alt: Victoire de Corentin Douguet avec le Mini 433 — E. Leclerc-Bouygues Telecom
   :align: center
+  :target: https://voilesetvoiliers.ouest-france.fr/course-au-large/mini-transat/que-sont-ils-devenus-corentin-douguet-e13f04c6-72c2-ce40-ad95-7e2e2eb983f7
 
 Ce bateau n'a réalisé qu'une transat en 2005, mais c'est lors de cette
 dernière qu'il a été mené à la victoire par Corentin Douguet.

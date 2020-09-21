@@ -9,4 +9,4 @@ Contactez-nous
 Comment nous contacter ?
 ========================
 
-- Rémy Hubscher — rest_at_sea@trunat.fr
+- Rémy Hubscher — rest-at-sea@trunat.fr

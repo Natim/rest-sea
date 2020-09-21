@@ -23,7 +23,7 @@ COVER_IMG_URL = '/theme/sidebar.jpg'
 
 SOCIAL = (
     ('envelope', 'mailto:rest-at-sea@trunat.fr'),
-    ('rss', SITEURL + '/feeds/all.atom.xml'),
+    ('rss', '/feeds/all.atom.xml'),
     ('facebook', 'https://www.facebook.com/pg/remymini433/'),
     ('github', 'https://github.com/Natim/rest-sea'),
 )

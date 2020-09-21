@@ -27,7 +27,7 @@ l'Atlantique en 2016/2017 et j'ai bien envie de faire du Pogo 3 en
 solitaire.
 
 Je rencontre Clarisse au Nautic, juste avant l'annonce de son
-partenariat IMOCA avec Banque Populaire et elle réponds à mes
+partenariat IMOCA avec Banque Populaire et elle répond à mes
 questions et m'encourage à me lancer.
 
 
@@ -63,7 +63,7 @@ C'est aussi un peu exiguë car l'espace a l'intérieur est plutôt bien
 encombré par le système de bascule de la quille et les réservoirs
 d'eau de mer des ballasts.
 
-Avant de pouvoir naviguer, il va falloir bricoler et avant de courrir
+Avant de pouvoir naviguer, il va falloir bricoler et avant de courir
 mettre le bateau à la jauge.
 
 Il y a également un peu d'appréhension de ma part et je ne me vois pas
@@ -84,11 +84,11 @@ Chantier composite
 Chantier électricité
 ====================
 
-Batteries HS, les batteries du bateau on rendu l'âme, je décide de
+Batteries HS, les batteries du bateau ont rendu l'âme, je décide de
 partir sur des batteries Lithium avec un circuit de charge via
 panneaux solaires.
 
-2 panneaux de 150W chacun ont été fixé à l'arrière sur un support. Un
+2 panneaux de 150W chacun ont été fixés à l'arrière sur un support. Un
 troisième panneau volant (pour le mettre au soleil et non à l'ombre de
 la GV.) peut se déployer depuis le cockpit. Ça permet de dépoter mais
 uniquement lorsqu'il y a du soleil…
@@ -100,7 +100,7 @@ le tableau arrière.
 Chantier électronique
 =====================
 
-Sondeur et speedo ne fonctionne plus, les vieux écrans n'affichent pas
+Sondeur et speedo ne fonctionnent plus, les vieux écrans n'affichent pas
 très bien les infos, il faut également remplacer le Mer Veille par un
 AIS.
 
@@ -122,10 +122,10 @@ jour et les pontets de drisse de réas sont également à remplacer.
 terre-plein pour de longs mois.
 
 Le chantier du mât est finalement le plus long et le plus complexe car
-de nombreuses pièces d'accastillages ont du être refaites, les
-êtrémités de barres de flèches ont été usinées, les fixations au
-niveau du pont transformée pour les haubans textiles (qui n'ont pas de
-pas de vis).
+de nombreuses pièces d'accastillage ont dû être refaites, les
+extrémités de barres de flèches ont été usinées, les fixations au
+niveau du pont transformées pour les haubans textiles (qui n'ont pas
+de pas de vis).
 
 
 Chantier sécu
@@ -162,9 +162,9 @@ Je tenais plus précisément à remercier Kasspatou (notamment Nico, Arno
 et Mado), Blew Stoub (notamment Vincent, Arnaud et Marie), la Sellor
 (notamment Gildas et Yannick) et TEEM (notamment Aurélien et Carole)
 qui ont fait un travail remarquable pour m'accompagner dans ces
-chantiers, prenant parfois sur leurs week-ends, prettant du matériel,
+chantiers, prenant parfois sur leurs week-ends, prêtant du matériel,
 un hangar, étant source de bonnes astuces et de bonnes idées afin de
-remettre ce magnifique bateau en état de courrir à nouveau.
+remettre ce magnifique bateau en état de courir à nouveau.
 
 .. image:: images/kasspatou.jpg
   :width: 420
